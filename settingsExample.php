@@ -1,0 +1,3 @@
+<?
+
+define('TELEGRAMM_TOKEN', 'YOUR_TOKEN');
